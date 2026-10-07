@@ -6,7 +6,7 @@ Se implementaron diferentes componentes, entre ellos un modelo entidad-relación
 
 El proyecto fue realizado en equipo.
 
-**Tecnologías utilizadas:**
+**Tecnologías utilizadas**
 
 Java
 
