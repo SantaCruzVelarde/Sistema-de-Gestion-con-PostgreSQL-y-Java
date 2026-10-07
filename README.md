@@ -7,9 +7,13 @@ Se implementaron diferentes componentes, entre ellos un modelo entidad-relación
 El proyecto fue realizado en equipo.
 
 Tecnologías utilizadas
+
 Java
+
 Java Swing
+
 PostgreSQL
+
 Configuración e instalación
 
 Para ejecutar el proyecto es necesario contar con Java y PostgreSQL instalados.
