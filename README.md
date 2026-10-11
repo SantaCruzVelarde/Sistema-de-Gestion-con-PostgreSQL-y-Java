@@ -6,7 +6,7 @@ Durante el desarrollo se elaboró un modelo entidad-relación, un esquema relaci
 
 El proyecto fue realizado en equipo y forma parte de las evidencias de los trabajos desarrollados durante la carrera.
 
-**Tecnologías utilizadas**
+# **Tecnologías utilizadas**
 
 Java
 
@@ -16,7 +16,7 @@ PostgreSQL
 
 SQL
 
-**Contenido del repositorio**
+# **Contenido del repositorio**
 
 Proyecto-base-de-datos--master/: archivos del proyecto de aplicación.
 
@@ -24,7 +24,7 @@ Scripts proyecto/: scripts relacionados con la base de datos.
 
 Proyecto_BD.pdf: documentación del proyecto.
 
-**Configuración e instalación**
+# **Configuración e instalación**
 
 Instalar Java y PostgreSQL.
 
@@ -36,7 +36,7 @@ Abrir el proyecto Java desde un entorno de desarrollo compatible.
 
 Ejecutar la aplicación después de verificar que la base de datos esté disponible.
 
-**Repositorio original**
+# **Repositorio original**
 
 Este repositorio se utiliza como evidencia para el portafolio académico. El proyecto original se puede consultar en el siguiente enlace:
 
