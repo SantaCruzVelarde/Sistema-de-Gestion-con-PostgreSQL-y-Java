@@ -1,10 +1,10 @@
 # Sistema de Gestión con PostgreSQL y Java
 
-Proyecto final realizado para la materia de Base de Datos 1. El proyecto consiste en el diseño e implementación de una base de datos utilizando PostgreSQL y una aplicación de escritorio desarrollada en Java y Swing.
+Proyecto final realizado para la materia de Base de Datos 1. Consiste en el diseño e implementación de una base de datos relacional utilizando PostgreSQL, junto con una aplicación de escritorio desarrollada en Java y Swing.
 
-Se implementaron diferentes componentes, entre ellos un modelo entidad-relación, esquema relacional, diccionario de datos, restricciones de integridad referencial, operaciones CRUD, procesos de negocio, manejo de transacciones y generación de informes.
+Durante el desarrollo se elaboró un modelo entidad-relación, un esquema relacional y un diccionario de datos. También se implementaron restricciones de integridad referencial, operaciones CRUD, procesos de negocio, manejo de transacciones y generación de informes.
 
-El proyecto fue realizado en equipo.
+El proyecto fue realizado en equipo y forma parte de las evidencias de los trabajos desarrollados durante la carrera.
 
 **Tecnologías utilizadas**
 
@@ -14,14 +14,30 @@ Java Swing
 
 PostgreSQL
 
+SQL
+
+**Contenido del repositorio**
+
+Proyecto-base-de-datos--master/: archivos del proyecto de aplicación.
+
+Scripts proyecto/: scripts relacionados con la base de datos.
+
+Proyecto_BD.pdf: documentación del proyecto.
+
 **Configuración e instalación**
 
-Para ejecutar el proyecto es necesario contar con Java y PostgreSQL instalados.
+Instalar Java y PostgreSQL.
 
-También se debe crear la base de datos utilizando los scripts incluidos en el proyecto y configurar los datos de conexión a PostgreSQL dentro de la aplicación.
+Revisar los scripts de la carpeta Scripts proyecto para crear y preparar la base de datos.
 
-**Información adicional**
+Configurar los datos de conexión a PostgreSQL que utiliza la aplicación.
 
-Este repositorio corresponde a una versión del proyecto utilizada como evidencia para el portafolio de trabajos de la carrera.
+Abrir el proyecto Java desde un entorno de desarrollo compatible.
 
-Repositorio original del proyecto: https://github.com/fajardosepulvedak/Proyecto-base-de-datos-
+Ejecutar la aplicación después de verificar que la base de datos esté disponible.
+
+**Repositorio original**
+
+Este repositorio se utiliza como evidencia para el portafolio académico. El proyecto original se puede consultar en el siguiente enlace:
+
+https://github.com/fajardosepulvedak/Proyecto-base-de-datos-
